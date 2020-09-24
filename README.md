@@ -88,5 +88,20 @@ https://github.com/Far0n/kaggletils
 https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 
+Feature Interactions and dimensionality reduction:
+https://www.coursera.org/learn/competitive-data-science/supplement/3XpTg/additional-materials-and-links
 
 
+Stacking:
+https://www.coursera.org/learn/competitive-data-science/supplement/JThpg/validation-schemes-for-2-nd-level-models
+https://mlwave.com/kaggle-ensembling-guide/
+https://github.com/kaz-Anova/StackNet
+https://github.com/rushter/heamy
+
+
+Past Solutions:
+https://www.coursera.org/learn/competitive-data-science/home/week/5
+http://ndres.me/kaggle-past-solutions/
+https://www.kaggle.com/wiki/PastSolutions
+http://www.chioka.in/kaggle-competition-solutions/
+https://github.com/ShuaiW/kaggle-classification/
